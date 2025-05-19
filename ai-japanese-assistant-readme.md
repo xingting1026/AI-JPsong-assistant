@@ -2,16 +2,7 @@
 
 一個功能強大的日語視頻學習工具，結合了視頻播放器、字幕顯示、字典查詢和 AI 助手功能，幫助您更有效地學習日語。
 
-## 產品演示
-
-![alt text](image.png)
-* 透過直接貼Youtube連結，可以在本地存下影片，並且會有中日字幕對照歌曲。隨時都可以調用字典功能查詢單字
-
-![alt text](image-1.png)
-* 此處也可以改使用OpenAI 的API串聯，讓AI即時直接分析句型文法。
-
-## 創作動機
-因為很喜歡聽日文歌，每次在聽歌的時候都想要學習歌詞的句型。還沒去了解MCP協議，但是就API串接上完全沒有問題，就製作了一個油油的日語歌詞學習助手「小瑤」~
+![AI 日語學習助手截圖]
 
 ## 主要功能
 
@@ -48,7 +39,7 @@
 
 1. 克隆或下載本項目到本地目錄
    ```bash
-   git clone https://github.com/xingting1026/AI-JPsong-assistant.git
+   git clone https://github.com/your-username/japanese-ai-assistant.git
    cd japanese-ai-assistant
    ```
 
